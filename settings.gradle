@@ -1,0 +1,2 @@
+rootProject.name = "CurrencyConverterRetrofitMVVM"
+include ':app'
