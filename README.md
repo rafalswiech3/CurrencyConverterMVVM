@@ -1,4 +1,4 @@
-# CurrencyConverterMVVM
+# Currency Converter MVVM
 
 Simple currency converter for Android
 
